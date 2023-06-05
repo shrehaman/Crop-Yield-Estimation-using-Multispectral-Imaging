@@ -20,6 +20,7 @@ The project includes data visualization and analysis components to present the r
 
 The Hyperspectral Imaging for Crop Potential Estimation project offers valuable insights for agricultural monitoring, precision farming, and crop management. It enables farmers, agronomists, and researchers to assess and optimize crop potential, identify areas of concern, and make data-driven decisions to enhance agricultural productivity.
 
+Project - 22
 
 ## Table of Contents
 - [Process](#process)
